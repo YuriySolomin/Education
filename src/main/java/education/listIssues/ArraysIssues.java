@@ -31,7 +31,6 @@ public class ArraysIssues {
                     source[j] = k;
                 }
             }
-
         }
         return source;
     }
